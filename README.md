@@ -4,13 +4,6 @@
 ## Тема: Система аналізу медіа-контенту
 
 ### Виконали:
-* [Ярослав Терещенко](https://t.me/yaroslav_els) 
-* Юлія Легенька
-* Любов Квасова
-* Анастасія Кузьміна
-* Любов Замула
-* Анастасія Фартушняк
-* Марина Васильєва
-* Анастасія Саніна
+* [Анастасія Саніна](https://t.me/foggy_fog) 
 
-**[Переглянути проект](https://yaroslavels.github.io/media-content-analyzing-system/)**
+**[Переглянути проект](https://anastasiiasanina.github.io/media-content-analyzing-system/)**
