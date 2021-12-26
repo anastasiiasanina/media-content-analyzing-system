@@ -14,7 +14,7 @@
 
 - `/api/beat/put/update` - Оновити дані 
 
-![](./update_beat.png)
+![](./udate_beat.png)
 
 - `/api/beat/delete/:id` - Видалити біт за його id
 
