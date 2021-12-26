@@ -155,11 +155,11 @@ try {
 }
 ```
 ### Опис кінцевих точок RESTfull сервісу доступу до даних
-- '/api/beat/post/add' - Додати біт
-- '/api/beat/:id' - Отримати біт за його id
-- '/api/beat/get/all' - Отримати всі біти
-- '/api/beat/put/update' - Оновити дані 
-- '/api/beat/delete/:id' - Видалити біт за його id
+- `/api/beat/post/add` - Додати біт
+- `/api/beat/:id` - Отримати біт за його id
+- `/api/beat/get/all` - Отримати всі біти
+- `/api/beat/put/update` - Оновити дані 
+- `/api/beat/delete/:id` - Видалити біт за його id
 
 [Тестування працездатності системи](https://anastasiiasanina.github.io/media-content-analyzing-system/test/)
 
